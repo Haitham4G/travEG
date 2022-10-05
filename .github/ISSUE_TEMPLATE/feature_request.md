@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: 'موقع رحلات داخل مصر '
+labels: 'TravEG'
 assignees: Haitham4G
 
 ---
